@@ -128,7 +128,7 @@ function buildCharts(sample) {
       height: 480,
       width: 1100,
       hovermode: 'closest',
-      paper_bgcolor: "orangered1"
+      paper_bgcolor: "lightsteelblue"
     };
 
     // 3. Use Plotly to plot the data with the layout.
@@ -166,7 +166,7 @@ function buildCharts(sample) {
       color: '600000'
       },
       font: { color: "black", family: "Arial"},
-      paper_bgcolor: "gray59"
+      paper_bgcolor: "Lavender"
     };
     
     // 6. Use Plotly to plot the gauge data and layout.
